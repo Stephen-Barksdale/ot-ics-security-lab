@@ -46,3 +46,8 @@ ot-ics-security-lab/
   vulnerability-remediation/
   incident-response/
   diagrams/
+
+## Disclaimer
+
+This repository uses lab-created and sanitized examples only. No employer, government, client, church, or sensitive data is included.
+
