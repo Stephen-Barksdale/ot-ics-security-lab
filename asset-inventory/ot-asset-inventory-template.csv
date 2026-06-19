@@ -1,0 +1,5 @@
+Asset ID,Asset Type,Protocol,Location Zone,Criticality,Known Vulnerabilities,Owner,Remediation Status,Notes
+OT-001,Controller,BACnet,Building Automation Network,High,None identified,Facilities,Compliant,Lab example
+OT-002,Gateway,Modbus TCP,OT DMZ,High,CVE review required,OT Team,In Review,Lab example
+OT-003,Workstation,RDP/HTTPS,Control Room,Medium,Patching pending,Systems Team,Planned,Lab example
+OT-004,Meter,Modbus TCP,Field Network,Medium,None identified,Energy Team,Compliant,Lab example
